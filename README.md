@@ -23,9 +23,8 @@ This project implements an **Artificial Neural Network (ANN)** to predict house 
 
 ## 🧠 Model Architecture
 
-- **Input layer:** 8 neurons (corresponding to 8 features)
-- **Hidden layer 1:** 64 neurons, ReLU activation
-- **Hidden layer 2:** 32 neurons, ReLU activation
+- **Input layer:** 128 neurons (corresponding to 8 features)
+- **Hidden layer:** 64 neurons, ReLU activation
 - **Output layer:** 1 neuron, linear activation (regression output)
 
 **Loss function:** Mean Squared Error (MSE)  
